@@ -1,4 +1,12 @@
-# crypto-list
+# Cryptocurrencies list
+
+Display cryptocurrencies in a table. The data is got from [CoinGecko API](https://www.coingecko.com/es/api/documentation "Link to API Documentation").
+
+## What I Learned? 🤓
+
+- Use Vue.js Framework
+- Async/await and Promises to get information from an API
+- Use Bootstrap CSS Framework
 
 ## Project setup
 ```
